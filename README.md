@@ -1,5 +1,3 @@
-# Task 1: Iris Flower Classification
-
 ## 📌 Project Overview
 
 This project is part of my CodeAlpha Data Science Internship. The objective of this task is to build a Machine Learning model that can classify Iris flowers into different species based on their measurements.
